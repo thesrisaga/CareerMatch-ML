@@ -194,6 +194,7 @@ Prediction: High Compatibility
 
 The probability represents the model's estimated compatibility probability for the supplied synthetic candidate-job pair.
 ## Project Structure
+```text
 CareerMatch-ML/
 │
 ├── data/
@@ -211,6 +212,7 @@ CareerMatch-ML/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
 
 ## Technologies
 - Python
