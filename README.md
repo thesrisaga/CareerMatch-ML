@@ -209,6 +209,11 @@ CareerMatch-ML/
 ├── src/
 │   └── predict.py
 │
+├── results/
+│   ├── model_comparison.png
+│   ├── roc_curve.png
+│   └── feature_importance.png
+│
 ├── README.md
 ├── requirements.txt
 └── .gitignore
